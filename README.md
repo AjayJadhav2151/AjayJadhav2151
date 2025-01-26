@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on *MERN Projects*
 
-- 👨‍💻 All of my projects are available at [https://akash1760.github.io/MyPortfolio/](https://akash1760.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at ()
 
 - 💬 Ask me about *ReactJs,MongoDB,NodeJS,HTML,CSS,JavaScript*
 
 - 📫 How to reach me *ajayjadhav.skn.comp@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19KNjxppXhinwNlNO-mUfRssdFI-S69Rf/view](https://drive.google.com/file/d/19KNjxppXhinwNlNO-mUfRssdFI-S69Rf/view)
+- 📄 Know about my experiences ()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
